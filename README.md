@@ -3,7 +3,7 @@
 
 ![Frameworks logo](https://i.imgur.com/qydnfLJ.jpeg)
 
-Hello, if you are searching for ready auth JWT system ready to use here we are, all set for use it uses Material UI on styles and React Icons.
+Hello, if you are searching for an auth JWT system ready to use, here it is, all set for use. It uses Material UI on styles and React Icons.
 Feel free to use and enjoy =)
 
 Quick start
@@ -16,5 +16,5 @@ Quick start
  6. `npm install` or `yarn add`
  7. `npm start dev` or `yarn dev`
 
-There a few routes done:
+There's a few routes done:
 Login, Register, me, logout
